@@ -40,4 +40,11 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=daeyeon-lee&show_icons=true&theme=gruvbox">
 
+  <br>
+  <h3>🏆 Baekjoon solved rank 🏆</h3>
+  	
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angellee98)](https://solved.ac/angellee98)
+  </div>
+  <br>
+
 </div>
