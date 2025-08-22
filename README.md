@@ -8,7 +8,7 @@
   </a>
 </div>
   <h2>💁🏻 About me</h2>
-  <h4>Lee Dae Yeon</h4>
+  <h3>Lee Dae Yeon</h3>
   <h4>Frontend Developer</h4>
 
   <h2>📙 Education</h2>
