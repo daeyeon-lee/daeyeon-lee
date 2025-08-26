@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## ⭐프로젝트 요약
-### 1. [금쪼기(금융 챌린지 어플리케이션)](https://github.com/daeyeon-lee/geumjjoki/tree/main)
+### 1. [금쪼기(금융 챌린지 어플리케이션)](https://github.com/daeyeon-lee/geumjjoki)
    - 프로젝트 소개 : 소비습관 개선을 위한 챌린지를 통해 금융상품을 리워드로 제공하는 서비스
    - 주요 기능 :
       - 소비 현황 및 분석 : 월별 누적 소비액 조회, 이전 달 대비 소비액 증감 분석 
