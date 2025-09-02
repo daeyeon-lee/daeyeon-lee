@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드 개발 - HTML5, CSS3, Javascript, Tailwind, React, Vue.js
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,html,css,js)](https://skillicons.dev)
 
 ### 🗄️ 데이터베이스 - MySQL
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
