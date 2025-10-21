@@ -2,7 +2,7 @@
 # 💁🏻 About me
 ## Lee Dae Yeon
 ### Frontend Developer
-### 삼성 청년 SW-AI Academy(SSAFY) 13th - python
+#### 2025.01 ~ 삼성 청년 SW-AI Academy(SSAFY) 13th - python
 
 ## 🛠️ 기술 스택
 ### ⚙️ 프로그래밍 언어 - Python, JavaScript, TypeScript
