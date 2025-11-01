@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53d0d9&,add8e6&height=200&section=header&text=Welcome%20to%20Daeyeon's%20GitHub%20&fontSize=40&fontColor=ffffff&fontAlign=40&fontAlignY=40)
 # 💁🏻 About me
 ## Lee Dae Yeon
-### Frontend Developer
-#### 2025.01 ~ 삼성 청년 SW-AI Academy(SSAFY) 13th - python
+> Frontend Developer
+## ✏ Education
+### 2025.01 ~ 12 삼성 청년 SW-AI Academy(SSAFY) 13th - python
 
-## 🛠️ 기술 스택
+## 🛠️ Skills
 ### ⚙️ 프로그래밍 언어 - Python, JavaScript, TypeScript
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
-### 🖥️ 프론트엔드 개발 - HTML5, CSS3, Javascript, Tailwind, React, Vue.js
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css,js)](https://skillicons.dev)
+### 🖥️ 프론트엔드 개발 - React, Next, Vue.js, tailwind, html, css
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css)](https://skillicons.dev)
 
 ### 🗄️ 데이터베이스 - MySQL
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -20,7 +21,7 @@
 ### 🎨 디자인 및 프로토타이핑 - Figma
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-## ⭐프로젝트 요약
+## ⭐ Project
 ### 1. [금쪼기(금융 챌린지 어플리케이션)](https://github.com/daeyeon-lee/geumjjoki)
    - 프로젝트 소개 : 소비습관 개선을 위한 챌린지를 통해 금융상품을 리워드로 제공하는 서비스
    - 주요 기능 :
