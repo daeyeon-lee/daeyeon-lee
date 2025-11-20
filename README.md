@@ -9,7 +9,7 @@
 ### ⚙️ 프로그래밍 언어 - Python, JavaScript, TypeScript
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
-### 🖥️ 프론트엔드 개발 - React, Next, Vue.js, tailwind, html, css
+### 🖥️ 프론트엔드 개발 - React, React Native, Next, Vue.js, tailwind, html, css
 [![My Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css)](https://skillicons.dev)
 
 ### 🗄️ 데이터베이스 - MySQL
