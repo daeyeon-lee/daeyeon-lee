@@ -15,8 +15,11 @@
 ### 🗄️ 데이터베이스 - MySQL
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
+
 ### 🤝 버전 관리 및 협업 - Git, GitHub
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
 
 ### 🎨 디자인 및 프로토타이핑 - Figma
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
@@ -32,7 +35,7 @@
    - 나의 기여
      - Vue 3 Composition API 기반 UI 컴포넌트 설계
      - Pinia 기반 상태 관리
-     - Swagger 기반 API 명세 연동 
+     - Swagger 기반 REST API 연동 개발
      - 서비스 전체 목업 및 디자인 기획/설계
    - 성과
       - 삼성 청년 SW-AI 아카데미 **웹앱 경진대회 우수상(2등) 수상**
@@ -45,7 +48,7 @@
   - 나의 기여
      - React + Zustand 기반 공통 UI 컴포넌트와 디자인 시스템을 구축
      - 사용자 역할 상태에 따른 UI 흐름 설계 및 조건부 메뉴 렌더링
-     - Swagger 기반 API 명세 연동
+     - REST API 연동 개발
   - 성과
     - 삼성 청년 SW-AI 아카데미 **웹디자인 경진대회 우수상(2등) 수상**
     - API 호출 횟수 감소 및 전역 상태 관리로 **코드 복잡도 20% 이상 감소**
@@ -57,8 +60,8 @@
     - 자체 펀딩 결제 시스템 구현
     - AI 요약 및 AI 모션 티켓 발급
   - 나의 기여
-     - Next.js + shadcn/ui 기반 공통 UI 컴포넌트와 디자인 시스템을 구축
-     - 반응형 레이아웃 설계로 모든 디바이스에서 최적화된 화면 제공
+     - Next.js 기반 공통 UI 컴포넌트와 디자인 시스템을 구축
+     - 반응형 디자인을 고려한 마크업 UI 개발
      - 역할별 페이지 접근 권한 분리 및 navbar 조건부 렌더링 UX 구현
   - 성과
     - 삼성 청년 SW-AI 아카데미 **핀테크 경진대회 우수상(2등) 수상**
@@ -70,5 +73,10 @@
     - 일기 형식으로 반려동물의 일상을 기록, 공유
     - 반려동물 동반 가능 시설 조회 및 예약
     - AI 기반 반려동물 건강 검사 및 검사 기록 관리
-    - 하이브리드 앱 개발 : 모바일 고유 기능은 React Native로, 업데이트가 잦은 화면은 React 컴포넌트 기반 WebView로 분리하여 개발 효율성과 배포 속도 향상
+  - 나의 기여
+     - React Native + React Webview 기반의 하이브리드 앱 개발
+     - 카메라, GPS, 푸시 알림 등 네이티브 기기 기능을 활용하기 위해 네이티브 브릿지를 활용해 연동 
+     - Android/Web 환경에서 FCM SDK를 연동하고 알림 메시지 전송 로직 구현
+  - 성과
+
   
