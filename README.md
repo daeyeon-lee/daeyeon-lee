@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53d0d9&height=220&section=header&text=Welcome%20to%20Daeyeon's%20GitHub&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=38)
 
 # 이대연 | Frontend Developer
-### 사용자 불편을 발견하고, 더 나은 경험으로 개선하는 프론트엔드 개발자
+### 사용자 불편을 발견하고 더 나은 경험으로 개선하는 프론트엔드 개발자
 
-사용자 관점에서 불편함을 발견하고, 더 직관적이고 편리한 경험으로 연결하는 서비스 개발에 집중합니다.  
-성능 최적화와 접근성을 고려한 프론트엔드 개발로 사용자 경험을 지속적으로 개선합니다.
+사용자 관점에서 문제를 정의하고 이를 직관적인 UI와 안정적인 기능으로 해결하는 데 집중합니다. 
+성능과 접근성을 함께 고려하며 사용자가 만족할 수 있는 경험을 만들어갑니다.
 <br/>
 
 ## 📫 Contact
@@ -24,8 +24,8 @@
 <br/>
 
 ## ✏ Education
-#### 2025.01 ~ 2025.12 삼성 청년 SW·AI Academy(SSAFY) 13기 Python트랙
-#### 2017.03 ~ 2024.02 가천대학교 응용통계학과, 경영학과 졸업
+#### 2025.01 ~ 2025.12 | 삼성 청년 SW·AI Academy(SSAFY) 13기 Python트랙
+#### 2017.03 ~ 2024.02 | 가천대학교 응용통계학과, 경영학과 졸업
 
 <br/>
 
