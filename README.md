@@ -24,7 +24,8 @@
 <br/>
 
 ## ✏ Education
-### 2025.01 ~ 2025.12 삼성 청년 SW·AI Academy(SSAFY) 13기 - Python
+#### 2025.01 ~ 2025.12 삼성 청년 SW·AI Academy(SSAFY) 13기 Python트랙
+#### 2017.03 ~ 2024.02 가천대학교 응용통계학과, 경영학과 졸업
 
 <br/>
 
@@ -63,7 +64,7 @@
   - 무한 스크롤 구현으로 전체 사진 조회 경험 개선
   - Play Store / App Store 베타 서비스 오픈
 - **기술 스택**
-  - React Native, FCM
+  - TypeSctipt, React Native, Zustand, FCM
 
 ### 2. [제리뽀](https://github.com/daeyeon-lee/jellypaw)
 #### 반려동물 종합 관리 플랫폼
@@ -84,7 +85,7 @@
   - 백그라운드 / 포그라운드 환경 모두에서 실시간 알림 기능 구현
   - 무한 스크롤 도입으로 피드 조회 성능 개선
 - **기술 스택**
-  - React Native, React, Zustand, FCM
+  - TypeScript, React Native, React, Zustand, FCM
 
 ### 3. [씨네모아](https://github.com/daeyeon-lee/Cinemoa)
 #### 크라우드 펀딩 기반 영화관 대관 자동화 서비스
@@ -145,4 +146,4 @@
 - **성과**
   - SSAFY 웹앱 경진대회 **우수상(2등)** 수상
 - **기술 스택**
-  - TypeScript, Vue 3, Pinia
+  - TypeScript, Vue.js, Pinia
