@@ -14,7 +14,7 @@
 <br/>
 
 ## 📌 Overview
-- 팀 프로젝트 5회 수행 및 서비스 기획·개발 경험
+- 팀 프로젝트 5회 수행 및 서비스 기획, 개발 경험
 - React / Next.js / Vue.js / React Native 기반 프론트엔드 개발 경험
 - UI 컴포넌트 설계 및 디자인 시스템 구축 경험
 - Swagger 기반 REST API 연동 및 상태 관리 구현 경험
