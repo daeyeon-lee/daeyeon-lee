@@ -36,7 +36,7 @@
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)<br/>Python · JavaScript · TypeScript |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css)](https://skillicons.dev)<br/>React · React Native · Next.js · Vue.js · Tailwind CSS · HTML5 · CSS3 |
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br/>MySQL |
-| **Collaboration** | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br/>Git · GitHub |
+| **Collaboration** | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)<br/>Git · GitHub · Gitlab|
 | **Design** | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)<br/>Figma |
 
 <br/>
